@@ -38,4 +38,5 @@ Para optimizar recursos y garantizar trazabilidad, se diseñó el siguiente fluj
 ├── requirements.txt    # Control de versiones de librerías (Pandas, Scikit-Learn, XGBoost).
 └── README.md
 ```
-
+## 📚 Documentación Adicional
+*   📖 **[Diccionario de Datos](./docs/glosario_variables.md):** Glosario técnico de las variables utilizadas para el entrenamiento del modelo.
