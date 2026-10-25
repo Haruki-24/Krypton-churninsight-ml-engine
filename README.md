@@ -1,4 +1,6 @@
 # 🧠 Krypton — Predicción de Cancelación de Clientes (ML + Cloud)
+[![Demo del Proyecto](https://img.youtube.com/vi/9KX1BNYt9XI/maxresdefault.jpg)](https://www.youtube.com/watch?v=9KX1BNYt9XI)
+
 ## Motor de Predicción de Churn (ML Engine)
 
 Este repositorio contiene la arquitectura de datos, el pipeline de entrenamiento y los modelos predictivos desarrollados para el proyecto [**Krypton** (Simulación Laboral NoCountry)](https://github.com/proyectofintech-hackathon/ONE-II-LATAM--Predicci-n-de-Cancelaci-n-de-Clientes). El objetivo del sistema es predecir la probabilidad de cancelación de clientes (Churn) en una Fintech, priorizando la captura de clientes en riesgo para maximizar la efectividad de las campañas de retención.
@@ -6,7 +8,6 @@ Este repositorio contiene la arquitectura de datos, el pipeline de entrenamiento
 > **👨‍💻 Mi Rol:** Responsable del ciclo de vida de los datos y modelos (Data Scientist / ML Engineer). Diseñé la arquitectura de modelos, implementé el Feature Engineering, lideré la experimentación con múltiples algoritmos y configuré la infraestructura de despliegue en Google Cloud Platform (GCP).
 
 🔗 **[Documentación Técnica en Notion](https://app.notion.com/p/Proyecto-Krypton-2e8d24359eb3804caf3ac78204e8bfc5)** *(Incluye contexto de negocio, arquitectura de datos y actas del equipo).*
-
 
 ---
 
